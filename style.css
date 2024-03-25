@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+    margin: auto;
+}
+
+image {
+    margin: auto;
+}
+
+nav a {
+   padding: 0 10px;
+   background-color: rgb(133, 133, 143); 
+}
+
